@@ -15,6 +15,7 @@ The **Tea House** website is a fully responsive e-commerce platform designed for
 - **HTML5**: For structuring the website content.
 - **Tailwind CSS**: For utility-first CSS styling.
 - **DaisyUI**: For pre-designed components that enhance the user interface.
+- **Font Awesome Icons**: Icons are used to enhance the visual presentation and improve navigation.
 - **Google Fonts - Manrope**: For the website's typography.
 
 ## How to Access
